@@ -1,5 +1,5 @@
-# 💫 About Me:
-Sou Gabriel, estudando de desenvolvimento web, moro em Goiânia e construir aplicações e ve-las funcionando é  uma das minhas motivações!!<br>Hoje, estou fazendo um curso full-stack e estudando novas ferramentas além do full-stack.<br>Atualmente estudando e realizando projetos em POO, API's RESTful e estudando Pyhton.<br>Em busca de aperfeiçoar meus conhecimentos e consolidar a minha carreira!
+# 💥 About Me:
+Sou Gabriel, estudante de desenvolvimento web, moro em Goiânia e construir aplicações e ve-las funcionando é  uma das minhas motivações!!<br>Hoje, estou fazendo um curso full-stack e estudando novas ferramentas além do full-stack.<br>Atualmente estudando e realizando projetos em POO, API's RESTful e estudando Pyhton.<br>Em busca de aperfeiçoar meus conhecimentos e consolidar a minha carreira!
 
 
 ## 🌐 Socials:
